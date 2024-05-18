@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Fender-Strat-Left-Medium-2_jpg.rf.a26b2273a650b61dd43fcd900f91b1f4.jpg</filename>
+	<path>Fender-Strat-Left-Medium-2_jpg.rf.a26b2273a650b61dd43fcd900f91b1f4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fender Stratocaster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>7</xmin>
+			<xmax>298</xmax>
+			<ymin>109</ymin>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SSS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>182</xmin>
+			<xmax>236</xmax>
+			<ymin>149</ymin>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

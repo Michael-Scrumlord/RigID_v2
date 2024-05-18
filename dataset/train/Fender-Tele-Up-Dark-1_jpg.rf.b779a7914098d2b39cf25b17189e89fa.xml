@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Fender-Tele-Up-Dark-1_jpg.rf.b779a7914098d2b39cf25b17189e89fa.jpg</filename>
+	<path>Fender-Tele-Up-Dark-1_jpg.rf.b779a7914098d2b39cf25b17189e89fa.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fender Telecaster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>206</xmax>
+			<ymin>30</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>148</xmin>
+			<xmax>175</xmax>
+			<ymin>200</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

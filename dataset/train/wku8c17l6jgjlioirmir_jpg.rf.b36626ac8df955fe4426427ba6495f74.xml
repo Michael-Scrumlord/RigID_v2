@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>wku8c17l6jgjlioirmir_jpg.rf.b36626ac8df955fe4426427ba6495f74.jpg</filename>
+	<path>wku8c17l6jgjlioirmir_jpg.rf.b36626ac8df955fe4426427ba6495f74.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fender Stratocaster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>97</xmin>
+			<xmax>231</xmax>
+			<ymin>23</ymin>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SSS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>143</xmin>
+			<xmax>186</xmax>
+			<ymin>227</ymin>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
